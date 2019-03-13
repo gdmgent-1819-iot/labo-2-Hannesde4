@@ -1,4 +1,4 @@
-# Tinder @ raspberry pi
+# Labo 2 - IoT: Tinder @ raspberry pi
 ### Made by Hannes De Baere
 #### Made for Arteveldehogeschool for "internet of things"
 
